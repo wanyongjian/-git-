@@ -1,0 +1,8 @@
+platform :ios, '7.0'
+
+target 'YJTangguo' do
+pod 'Masonry'
+pod 'MJExtension'
+pod 'SDWebImage', '~>4.0.0'
+pod 'SDCycleScrollView','~> 1.66'
+end
